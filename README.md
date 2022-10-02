@@ -1,3 +1,12 @@
+   <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
+<h3 align="center">A passionate full stack web developer from Pakistan</h3>
+
+- 🌱 I’m currently learning **React, Vue, Angular**
+
+- 👯 I’m looking to collaborate on **open source php projects**
+
+- 📫 How to reach me **muhammad.abdullahbutt3434@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-butt-974b6b167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-butt-974b6b167/" height="30" width="40" /></a>
@@ -39,3 +48,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahbutt3434&show_icons=true&locale=en" alt="abdullahbutt3434" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahbutt3434&" alt="abdullahbutt3434" /></p>
+
+    
